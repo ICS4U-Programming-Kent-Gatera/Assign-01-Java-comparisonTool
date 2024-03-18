@@ -1,1 +1,1 @@
-# Assign-01-Java-comparisonTool
+[![GitHub's Super Linter](https://github.com/ICS4U-Programming-Kent-Gatera/Assign-01-Java-comparisonTool/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-Kent-Gatera/Assign-01-Java-comparisonTool/actions)
